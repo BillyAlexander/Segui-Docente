@@ -1,0 +1,11 @@
+@extends('layouts.bootstrap')
+
+@section('head')
+<title>Pagina de Inicio</title>
+<meta name="description" content="Pagina de Inicio">
+<meta name="keywords" content="palabras, clave">
+@stop
+
+@section('content')
+	<h1>Prueba de laravel para la tesis </h1>
+@stop
